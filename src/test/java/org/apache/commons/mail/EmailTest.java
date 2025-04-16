@@ -7,6 +7,7 @@ import javax.mail.internet.InternetAddress;
 import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;
+import org.junit.Ignore;
 
 public class EmailTest {
     private static final String[] TEST_EMAILS = {"ab@bc.com", "a.b@c.org", "abcdefghijk@abdcdefghijk.com.bd"};
